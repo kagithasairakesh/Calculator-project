@@ -7,7 +7,7 @@ from Division import div
 
 
 
-print("<-- Menu -->\n1.Division\n2.Multiplicatoin\n3.Addition\n4.Subtraction")
+print("<-- Menu -->\n1.Division\n2.Multiplicatoin\n3.Subtraction\n4.Addition")
 i = input()
 if(i==1):
   x=input("enter x value")
