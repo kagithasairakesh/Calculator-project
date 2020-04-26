@@ -1,0 +1,35 @@
+NetSecProf
+Installing and Configuring SNMP on Linux
+-https://www.youtube.com/watch?v=gdCCkYMD0q8
+
+
+Hernandes Martins
+Zabbix SNMP
+-https://www.youtube.com/watch?v=JcfMIlU3vtc
+
+
+
+Lnw Tutorials
+Snmp Server Agent Configuration And retrive data over snmp part-1
+-https://www.youtube.com/watch?v=o84KtaawgpE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
